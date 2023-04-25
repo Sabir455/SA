@@ -202,4 +202,4 @@ def rcrack(uid,pwx,tl):
     except:
         pass
 
-sabir()
+asad()
